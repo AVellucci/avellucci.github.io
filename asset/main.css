@@ -1,3 +1,12 @@
+@font-face {
+  font-family: digimoji;
+  src: url(/asset/digimoji.otf) format("opentype"),
+       url(/asset/digimoji.woff) format("woff"),
+       url(/asset/digimoji.ttf) format("truetype"),
+       url(/asset/digimoji.svg) format("svg");
+}
+
+
   BODY {
     background: #EEE;
   }
