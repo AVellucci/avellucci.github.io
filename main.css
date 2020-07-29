@@ -1,0 +1,38 @@
+  BODY {
+    background: #EEE;
+  }
+  .header {
+    position: fixed;
+    width: 100%;
+    background: #ffd3b6;
+    background-image: linear-gradient(#DBD, #FDB, #DBD);
+    top: 0px;
+    left: 0px;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+  }
+  #home {
+    margin-top: 6px;
+    margin-left: 10px;
+    float: left;
+  }
+  #Serial {
+    width: 65%;
+    font-size: 18px;
+    line-height: 26px;
+    border: 1px solid #CCC;
+    border-radius: 6px;
+    background: #EEE;
+    margin: 0px 2px;
+  }
+  #submit {
+    background: #DDD;
+    border: 1px solid #555;
+    border-radius: 5px;
+    font-size: 18px;
+  }
+  .digimon {
+    margin: 60px 10px 10px 10px;
+    height: 3000px;
+  }
