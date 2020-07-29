@@ -6,6 +6,16 @@
        url(/asset/digimoji.svg) format("svg");
 }
 
+#home {
+  text-decoration: none;
+}
+
+#home > span {
+  font-family: digimoji;
+    font-size: 30px;
+    letter-spacing: -5px;
+    color: #222;
+}
 
   BODY {
     background: #EEE;
